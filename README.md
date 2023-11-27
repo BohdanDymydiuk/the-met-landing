@@ -5,6 +5,6 @@ For this project I used HTML and SCSS
 
 Here's the [LAYOUT](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29&mode=dev) of this landing page.
 
-Here's [PREVIEW](https://bohdandymydiuk.github.io/the-met-landing/)
+Here's [PREVIEW](https://bohdandymydiuk.github.io/the-met-landing/).
 
 To start the project, use the "npm start" command.
